@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Delyan
-- 👀 I’m interested in modelling dynamic physical processes.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on fun projects for a beginner in programming.
 - 📫 https://www.linkedin.com/in/dr-delyan-malchev-132875156
 
 <!---
